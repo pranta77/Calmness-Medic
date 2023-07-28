@@ -1,0 +1,17 @@
+.login-container {
+  background-image: url(../../../../images//heartbeat.webp);
+}
+.login-container h1 {
+  color: aliceblue;
+  font-size: 60px;
+}
+.under-login {
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+@media only screen and (max-width: 600px) {
+  .under-login {
+    width: 100%;
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "shopName": "medicine",
+    "shopTitle": "Telemedicine is one option for getting easy access to healthcare. It allows you to get online prescriptions for minor illnesses or refills for ongoing conditions.",
+    "img": "https://i.ibb.co/8dXFd1d/medic-1.webp",
+    "price": "$200"
+  },
+  {
+    "id": "2",
+    "shopName": "injection",
+    "shopTitle": "(in-JEK-shun) Use of a syringe and needle to push fluids or drugs into the body; often called a shot.",
+    "img": "https://i.ibb.co/y52QG2M/medic-2.webp",
+    "price": "$300"
+  },
+  {
+    "id": "3",
+    "shopName": "Saline",
+    "shopTitle": "Saline is a mixture of sodium chloride and water. It has a number of uses in medicine including cleaning wounds.",
+    "img": "https://i.ibb.co/MsbYcr9/medic-3.webp",
+    "price": "$400"
+  },
+  {
+    "id": "4",
+    "shopName": "wheel chair",
+    "shopTitle": "Dayang Medical high back reclining steel manual wheelchair Model DY01903GC combines the feature of steady safety and comfort..",
+    "img": "https://i.ibb.co/J2dPYzL/medic-4.webp",
+    "price": "$200"
+  },
+  {
+    "id": "5",
+    "shopName": "stretchers",
+    "shopTitle": ": a device or machine for stretching or expanding something. 2. : a device that resembles a cot and is used for carrying a sick, injured, or dead person.",
+    "img": "https://i.ibb.co/s9VYrJT/medic-5.webp",
+    "price": "$500"
+  },
+  {
+    "id": "6",
+    "shopName": "Sterilizers",
+    "shopTitle": ": Can wash, disinfect, dry and store baby feeding bottles, teething toys and breast pumps. Multi-function, automatic, drying, storage, high temperature steam sterilization",
+    "img": "https://i.ibb.co/cY0hpsz/medic-6-1.webp",
+    "price": "$800"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "serviceName": "amniocentesis",
+    "serviceTitle": "What is amniocentesis? Amniocentesis (also called amnio) is a prenatal test that takes amniotic fluid from around your baby. in the uterus.",
+    "img": "https://i.ibb.co/2ytDf0G/1.jpg ",
+    "fee": "$ 100"
+  },
+  {
+    "id": "2",
+    "serviceName": "Pap smear",
+    "serviceTitle": "A procedure in which a small brush is used to gently remove cells from the surface of the cervix and the area around it so they can be checked ",
+    "img": "https://i.ibb.co/pzx7PH7/2.jpg",
+    "fee": "$ 200"
+  },
+  {
+    "id": "3",
+    "serviceName": "lumbar puncture",
+    "serviceTitle": "Lumbar puncture, also known as a spinal tap, is a medical procedure in which a needle is inserted into the spinal canal, most commonly . ",
+    "img": "https://i.ibb.co/WDLMqs2/3.jpg",
+    "fee": "$ 250"
+  },
+  {
+    "id": "4",
+    "serviceName": "liver function test",
+    "serviceTitle": "Liver function tests (LFTs) are blood tests that provide information about how your liver is working. If your liver function tests are abnormal.",
+    "img": "https://i.ibb.co/1X3vv9Y/4.jpg",
+    "fee": "$ 300"
+  },
+  {
+    "id": "5",
+    "serviceName": "kidney function test",
+    "serviceTitle": " two simple tests CKD is evaluated using two simple tests – a blood test known as the estimated filtration rate and a urine test known as the urine.",
+    "img": "https://i.ibb.co/Qdbqm65/5.jpg",
+    "fee": "$ 350"
+  },
+  {
+    "id": "6",
+    "serviceName": "gastric fluid analysis",
+    "serviceTitle": "gastric fluid analysis, medical procedure used to examine the secretions and other liquid substances occurring in the stomach.",
+    "img": "https://i.ibb.co/GpDbBF9/6-1.jpg",
+    "fee": "$ 500"
+  }
+]
