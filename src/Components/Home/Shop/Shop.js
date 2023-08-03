@@ -1,10 +1,10 @@
 import React from "react";
 import "./Shop.css";
 
-const Shop = ({ mainShop }) => {
+const Shop = ({ mainShop, key }) => {
   const { shopName, shopTitle, img, price } = mainShop;
   return (
-    <div className="shop-product">
+    <div key={key} className="shop-product">
       <img src={img} alt="" />
       <h2>{shopName}</h2>
       <p>{shopTitle}</p>

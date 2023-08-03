@@ -20,11 +20,25 @@ function App() {
           <Routes>
             <Route exact path="/" element={<AllHome />}></Route>
             <Route path="/home" element={<AllHome />}></Route>
-            <Route path="/shop" element={<Shops />}></Route>
+            <Route
+              path="/shop"
+              element={
+                <PrivateRoute>
+                  <Shops />
+                </PrivateRoute>
+              }
+            ></Route>
             <Route path="/login" element={<Login />}></Route>
             <Route path="/signup" element={<SignUp />}></Route>
 
-            <Route path="/buying/:serviceId" element={<Buying />}></Route>
+            <Route
+              path="/buying/:serviceId"
+              element={
+                <PrivateRoute>
+                  <Buying />
+                </PrivateRoute>
+              }
+            ></Route>
 
             <Route path="/*" element={<NotFound />}></Route>
           </Routes>
