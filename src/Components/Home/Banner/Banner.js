@@ -9,7 +9,7 @@ const Banner = () => {
     <div>
       <Carousel>
         <Carousel.Item>
-          <img width={"100%"} height={"600px"} src={banner1} alt="" />
+          <img width={"100%"} height={"80%"} src={banner1} alt="" />
 
           <Carousel.Caption>
             <h3>First Emergency Medical</h3>
